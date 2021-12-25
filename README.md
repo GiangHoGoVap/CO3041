@@ -1,2 +1,1 @@
-# CO3041
-CO3041 semester 211
+# CO3041 - Intelligent Systems
